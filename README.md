@@ -1,4 +1,4 @@
-FoodX - Food Inventory Management App
+# FoodX - Food Inventory Management App
 # Overview
 FoodX is a native Android app developed in Java that serves as a comprehensive solution for managing household food inventory. The application helps users keep track of their food stock, including details such as expiry date, quantity, and more. With an organized display of items, users can easily identify low-stock items and those approaching their expiry date.
 # Features
